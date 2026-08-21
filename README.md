@@ -1,1 +1,26 @@
 # leetcode
+# 🚀 LeetCode Solutions
+
+Welcome to my LeetCode repository! This space contains my solutions to various algorithmic problems and database challenges. I use this repo to track my problem-solving progress, document my learning, and maintain a personal library of algorithms and data structures.
+
+## 🛠️ Languages
+
+The solutions in this repository are primarily written in:
+* **Python** 🐍
+* **C** 💻
+* **SQL** 🗄️
+
+## 📂 Repository Structure
+
+The repository is organized by topic to make it easy to navigate. Each file is named with the problem number and title.
+
+```text
+📦 LeetCode
+┣ 📂 Arrays
+┃ ┣ 📜 0001-Two-Sum.py
+┃ ┗ 📜 0026-Remove-Duplicates.c
+┣ 📂 Dynamic_Programming
+┃ ┗ 📜 0070-Climbing-Stairs.py
+┣ 📂 Database
+┃ ┗ 📜 0175-Combine-Two-Tables.sql
+┗ 📜 README.md
