@@ -37,6 +37,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/sarthak-2611/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/sarthak-2611/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,4 +66,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sarthak-2611/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
