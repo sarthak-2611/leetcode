@@ -74,6 +74,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/sarthak-2611/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sarthak-2611/leetcode/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/sarthak-2611/leetcode/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
