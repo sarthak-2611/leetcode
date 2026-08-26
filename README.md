@@ -86,4 +86,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak-2611/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
