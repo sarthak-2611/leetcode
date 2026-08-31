@@ -37,6 +37,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarthak-2611/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sarthak-2611/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -52,10 +53,12 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthak-2611/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sarthak-2611/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -103,8 +106,10 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthak-2611/leetcode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
