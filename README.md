@@ -30,6 +30,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarthak-2611/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthak-2611/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -96,4 +97,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sarthak-2611/leetcode/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sarthak-2611/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
