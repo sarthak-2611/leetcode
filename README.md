@@ -37,6 +37,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarthak-2611/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +71,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -112,4 +114,16 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
