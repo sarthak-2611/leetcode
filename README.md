@@ -108,6 +108,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak-2611/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/sarthak-2611/leetcode/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sarthak-2611/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
