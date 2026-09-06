@@ -33,6 +33,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0001-two-sum](https://github.com/sarthak-2611/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthak-2611/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -104,6 +105,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/sarthak-2611/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak-2611/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
