@@ -86,6 +86,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak-2611/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sarthak-2611/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sarthak-2611/leetcode/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/sarthak-2611/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
@@ -120,6 +122,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0001-two-sum](https://github.com/sarthak-2611/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak-2611/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sarthak-2611/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0387-first-unique-character-in-a-string) |
