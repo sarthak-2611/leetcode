@@ -31,6 +31,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthak-2611/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sarthak-2611/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarthak-2611/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
@@ -91,6 +92,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak-2611/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sarthak-2611/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -186,4 +188,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarthak-2611/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
