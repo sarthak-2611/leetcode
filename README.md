@@ -106,6 +106,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0014-longest-common-prefix](https://github.com/sarthak-2611/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sarthak-2611/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sarthak-2611/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
@@ -153,6 +154,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak-2611/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sarthak-2611/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sarthak-2611/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sarthak-2611/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarthak-2611/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -193,6 +195,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak-2611/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sarthak-2611/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/sarthak-2611/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sarthak-2611/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
