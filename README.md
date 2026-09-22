@@ -37,6 +37,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthak-2611/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -61,6 +62,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0027-remove-element](https://github.com/sarthak-2611/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthak-2611/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sarthak-2611/leetcode/tree/master/0344-reverse-string) |
@@ -70,6 +72,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sarthak-2611/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthak-2611/leetcode/tree/master/0242-valid-anagram) |
