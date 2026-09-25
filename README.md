@@ -145,6 +145,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/sarthak-2611/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/sarthak-2611/leetcode/tree/master/0504-base-7) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak-2611/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -154,6 +155,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sarthak-2611/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +238,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
