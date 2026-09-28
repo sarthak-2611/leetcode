@@ -147,6 +147,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/sarthak-2611/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sarthak-2611/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sarthak-2611/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
@@ -220,6 +221,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sarthak-2611/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sarthak-2611/leetcode/tree/master/0415-add-strings) |
 ## String Matching
@@ -256,4 +258,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sarthak-2611/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
