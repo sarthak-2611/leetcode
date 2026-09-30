@@ -117,6 +117,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0032-longest-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sarthak-2611/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sarthak-2611/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0290-word-pattern) |
@@ -147,6 +148,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sarthak-2611/leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sarthak-2611/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sarthak-2611/leetcode/tree/master/0268-missing-number) |
