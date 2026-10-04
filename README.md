@@ -121,6 +121,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0125-valid-palindrome](https://github.com/sarthak-2611/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/sarthak-2611/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarthak-2611/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sarthak-2611/leetcode/tree/master/0344-reverse-string) |
@@ -180,6 +181,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sarthak-2611/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/sarthak-2611/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sarthak-2611/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarthak-2611/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sarthak-2611/leetcode/tree/master/0242-valid-anagram) |
