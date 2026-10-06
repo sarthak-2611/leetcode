@@ -94,6 +94,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0022-generate-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
@@ -154,6 +155,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0012-integer-to-roman](https://github.com/sarthak-2611/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sarthak-2611/leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sarthak-2611/leetcode/tree/master/0069-sqrtx) |
@@ -287,4 +289,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sarthak-2611/leetcode/tree/master/0445-add-two-numbers-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
