@@ -43,6 +43,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/sarthak-2611/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sarthak-2611/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarthak-2611/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sarthak-2611/leetcode/tree/master/0268-missing-number) |
@@ -97,6 +98,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/sarthak-2611/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
