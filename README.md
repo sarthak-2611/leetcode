@@ -164,6 +164,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sarthak-2611/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sarthak-2611/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
@@ -274,6 +275,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarthak-2611/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/sarthak-2611/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
 ## Floyd's Cycle Finding Algorithm
@@ -284,6 +286,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
 ## Number Theory
 |  |
 | ------- |
