@@ -96,6 +96,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0032-longest-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sarthak-2611/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sarthak-2611/leetcode/tree/master/0198-house-robber) |
@@ -164,6 +165,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sarthak-2611/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sarthak-2611/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sarthak-2611/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -303,4 +305,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sarthak-2611/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
