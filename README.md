@@ -34,6 +34,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0014-longest-common-prefix](https://github.com/sarthak-2611/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarthak-2611/leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/sarthak-2611/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
@@ -197,6 +198,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0012-integer-to-roman](https://github.com/sarthak-2611/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sarthak-2611/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/sarthak-2611/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sarthak-2611/leetcode/tree/master/0205-isomorphic-strings) |
