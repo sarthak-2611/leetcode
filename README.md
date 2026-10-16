@@ -182,6 +182,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0415-add-strings](https://github.com/sarthak-2611/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/sarthak-2611/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/sarthak-2611/leetcode/tree/master/0504-base-7) |
+| [0829-consecutive-numbers-sum](https://github.com/sarthak-2611/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak-2611/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/sarthak-2611/leetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sarthak-2611/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -317,4 +318,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarthak-2611/leetcode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/sarthak-2611/leetcode/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
