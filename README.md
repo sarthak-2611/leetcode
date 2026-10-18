@@ -34,6 +34,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0014-longest-common-prefix](https://github.com/sarthak-2611/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarthak-2611/leetcode/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/sarthak-2611/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/sarthak-2611/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
@@ -298,6 +299,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/sarthak-2611/leetcode/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
 ## Number Theory
 |  |
