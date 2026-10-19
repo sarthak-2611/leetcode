@@ -184,6 +184,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0445-add-two-numbers-ii](https://github.com/sarthak-2611/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/sarthak-2611/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sarthak-2611/leetcode/tree/master/0504-base-7) |
+| [0728-self-dividing-numbers](https://github.com/sarthak-2611/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/sarthak-2611/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak-2611/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/sarthak-2611/leetcode/tree/master/2235-add-two-integers) |
