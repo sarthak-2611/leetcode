@@ -44,6 +44,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthak-2611/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sarthak-2611/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sarthak-2611/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sarthak-2611/leetcode/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sarthak-2611/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sarthak-2611/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthak-2611/leetcode/tree/master/0242-valid-anagram) |
@@ -91,6 +93,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sarthak-2611/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +207,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sarthak-2611/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/sarthak-2611/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/sarthak-2611/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sarthak-2611/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sarthak-2611/leetcode/tree/master/0217-contains-duplicate) |
@@ -246,6 +250,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthak-2611/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sarthak-2611/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sarthak-2611/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -326,4 +331,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/sarthak-2611/leetcode/tree/master/0829-consecutive-numbers-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarthak-2611/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
