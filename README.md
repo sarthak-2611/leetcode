@@ -104,6 +104,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0070-climbing-stairs](https://github.com/sarthak-2611/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/sarthak-2611/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/sarthak-2611/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/sarthak-2611/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
@@ -134,6 +135,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0058-length-of-last-word](https://github.com/sarthak-2611/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sarthak-2611/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/sarthak-2611/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sarthak-2611/leetcode/tree/master/0205-isomorphic-strings) |
@@ -307,6 +309,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0022-generate-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sarthak-2611/leetcode/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/sarthak-2611/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Number Theory
 |  |
 | ------- |
