@@ -89,6 +89,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0268-missing-number](https://github.com/sarthak-2611/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -146,6 +147,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0344-reverse-string](https://github.com/sarthak-2611/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sarthak-2611/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sarthak-2611/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sarthak-2611/leetcode/tree/master/0504-base-7) |
@@ -223,6 +225,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sarthak-2611/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sarthak-2611/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
@@ -301,6 +304,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/sarthak-2611/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
