@@ -150,6 +150,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sarthak-2611/leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/sarthak-2611/leetcode/tree/master/0504-base-7) |
 | [1108-defanging-an-ip-address](https://github.com/sarthak-2611/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sarthak-2611/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -280,14 +281,17 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
