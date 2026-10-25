@@ -109,6 +109,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sarthak-2611/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/sarthak-2611/leetcode/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/sarthak-2611/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 ## Greedy
@@ -142,6 +143,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sarthak-2611/leetcode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sarthak-2611/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sarthak-2611/leetcode/tree/master/0344-reverse-string) |
@@ -166,6 +168,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0020-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +187,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sarthak-2611/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sarthak-2611/leetcode/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/sarthak-2611/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sarthak-2611/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sarthak-2611/leetcode/tree/master/0279-perfect-squares) |
@@ -202,6 +206,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/sarthak-2611/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
@@ -340,6 +345,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarthak-2611/leetcode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Enumeration
 |  |
 | ------- |
