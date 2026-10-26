@@ -112,6 +112,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/sarthak-2611/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/sarthak-2611/leetcode/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -312,6 +313,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/sarthak-2611/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sarthak-2611/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
 ## Floyd's Cycle Finding Algorithm
