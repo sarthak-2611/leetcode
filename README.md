@@ -316,6 +316,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0338-counting-bits](https://github.com/sarthak-2611/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/sarthak-2611/leetcode/tree/master/0461-hamming-distance) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
