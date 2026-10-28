@@ -54,6 +54,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarthak-2611/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sarthak-2611/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -90,6 +91,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -357,4 +359,8 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarthak-2611/leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
