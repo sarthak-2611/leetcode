@@ -56,6 +56,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sarthak-2611/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarthak-2611/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sarthak-2611/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sarthak-2611/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -204,6 +205,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0728-self-dividing-numbers](https://github.com/sarthak-2611/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/sarthak-2611/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak-2611/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sarthak-2611/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/sarthak-2611/leetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sarthak-2611/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
