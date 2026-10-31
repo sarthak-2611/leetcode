@@ -55,6 +55,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sarthak-2611/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -119,6 +120,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0279-perfect-squares](https://github.com/sarthak-2611/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sarthak-2611/leetcode/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +206,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sarthak-2611/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/sarthak-2611/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/sarthak-2611/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sarthak-2611/leetcode/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/sarthak-2611/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -218,6 +221,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/sarthak-2611/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthak-2611/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -373,4 +377,16 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthak-2611/leetcode/tree/master/0042-trapping-rain-water) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
