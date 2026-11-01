@@ -37,6 +37,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0039-combination-sum](https://github.com/sarthak-2611/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/sarthak-2611/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sarthak-2611/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/sarthak-2611/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
@@ -338,6 +339,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sarthak-2611/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sarthak-2611/leetcode/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/sarthak-2611/leetcode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/sarthak-2611/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Number Theory
