@@ -40,6 +40,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0046-permutations](https://github.com/sarthak-2611/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/sarthak-2611/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthak-2611/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sarthak-2611/leetcode/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0042-trapping-rain-water](https://github.com/sarthak-2611/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/sarthak-2611/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sarthak-2611/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sarthak-2611/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +132,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sarthak-2611/leetcode/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/sarthak-2611/leetcode/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
