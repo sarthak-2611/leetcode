@@ -38,6 +38,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0041-first-missing-positive](https://github.com/sarthak-2611/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sarthak-2611/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sarthak-2611/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/sarthak-2611/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarthak-2611/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/sarthak-2611/leetcode/tree/master/0064-minimum-path-sum) |
@@ -132,6 +133,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sarthak-2611/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/sarthak-2611/leetcode/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/sarthak-2611/leetcode/tree/master/1672-richest-customer-wealth) |
 ## String
@@ -192,6 +194,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0013-roman-to-integer](https://github.com/sarthak-2611/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sarthak-2611/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sarthak-2611/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/sarthak-2611/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sarthak-2611/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
