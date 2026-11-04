@@ -58,6 +58,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -165,6 +166,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0383-ransom-note](https://github.com/sarthak-2611/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sarthak-2611/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -266,6 +268,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0279-perfect-squares](https://github.com/sarthak-2611/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sarthak-2611/leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -397,4 +400,28 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
