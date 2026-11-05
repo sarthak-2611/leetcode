@@ -59,6 +59,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
+| [0414-third-maximum-number](https://github.com/sarthak-2611/leetcode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/sarthak-2611/leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -99,6 +100,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-2611/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthak-2611/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/sarthak-2611/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
