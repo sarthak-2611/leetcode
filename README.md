@@ -119,6 +119,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0062-unique-paths](https://github.com/sarthak-2611/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sarthak-2611/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sarthak-2611/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sarthak-2611/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/sarthak-2611/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-2611/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -158,6 +159,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0049-group-anagrams](https://github.com/sarthak-2611/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sarthak-2611/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sarthak-2611/leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/sarthak-2611/leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/sarthak-2611/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sarthak-2611/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/sarthak-2611/leetcode/tree/master/0171-excel-sheet-column-number) |
