@@ -135,6 +135,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-2611/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/sarthak-2611/leetcode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/sarthak-2611/leetcode/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +174,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/sarthak-2611/leetcode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/sarthak-2611/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/sarthak-2611/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sarthak-2611/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/sarthak-2611/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -185,6 +187,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0020-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak-2611/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthak-2611/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sarthak-2611/leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/sarthak-2611/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Bracket Sequences
 |  |
@@ -395,6 +398,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthak-2611/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sarthak-2611/leetcode/tree/master/0402-remove-k-digits) |
 ## Minimax
 |  |
 | ------- |
