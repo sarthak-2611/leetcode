@@ -103,6 +103,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sarthak-2611/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/sarthak-2611/leetcode/tree/master/0506-relative-ranks) |
+| [0869-reordered-power-of-2](https://github.com/sarthak-2611/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/sarthak-2611/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -229,6 +230,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0504-base-7](https://github.com/sarthak-2611/leetcode/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/sarthak-2611/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/sarthak-2611/leetcode/tree/master/0829-consecutive-numbers-sum) |
+| [0869-reordered-power-of-2](https://github.com/sarthak-2611/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak-2611/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sarthak-2611/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/sarthak-2611/leetcode/tree/master/2235-add-two-integers) |
@@ -264,6 +266,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0383-ransom-note](https://github.com/sarthak-2611/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sarthak-2611/leetcode/tree/master/0389-find-the-difference) |
+| [0869-reordered-power-of-2](https://github.com/sarthak-2611/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sarthak-2611/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
@@ -299,6 +302,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | [0169-majority-element](https://github.com/sarthak-2611/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sarthak-2611/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthak-2611/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0869-reordered-power-of-2](https://github.com/sarthak-2611/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sarthak-2611/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -386,6 +390,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 |  |
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/sarthak-2611/leetcode/tree/master/0829-consecutive-numbers-sum) |
+| [0869-reordered-power-of-2](https://github.com/sarthak-2611/leetcode/tree/master/0869-reordered-power-of-2) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
