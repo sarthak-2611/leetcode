@@ -391,6 +391,7 @@ The repository is organized by topic to make it easy to navigate. Each file is n
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/sarthak-2611/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0869-reordered-power-of-2](https://github.com/sarthak-2611/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/sarthak-2611/leetcode/tree/master/1291-sequential-digits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
